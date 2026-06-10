@@ -14,7 +14,7 @@ Aplicação em Python com interface gráfica para renomear arquivos em lote de f
 - Python
 - Tkinter
 
-## ▶️Como executar
+## Como executar
 
 1. Clone o repositório
 2. Execute:
